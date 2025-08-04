@@ -1,7 +1,5 @@
 # Prompt提示词
 
-# Prompt提示词
-
 ## 目录
 
 - [1  Prompt工程](#1--Prompt工程)
@@ -129,7 +127,8 @@
     - [Authropic 提示词工程指南](https://docs.anthropic.com/zh-CN/docs/build-with-claude/prompt-engineering/overview "Authropic 提示词工程指南")
     - [Authropic 提示词工程指南（开源仓库）](https://github.com/anthropics/prompt-eng-interactive-tutorial "Authropic 提示词工程指南（开源仓库）")
     - [智谱 AI Prompt 设计指南](https://open.bigmodel.cn/dev/guidelines/LanguageModels "智谱 AI Prompt 设计指南")
-      网上也有很﻿多现成的提示词库，‌在自主优化提示词前‎，可以先尝试搜索有‍没有现成的提示词参⁠考：
+
+    网上也有很﻿多现成的提示词库，‌在自主优化提示词前‎，可以先尝试搜索有‍没有现成的提示词参⁠考：
     - 文本对话：[Authropic 提示词库](https://docs.anthropic.com/zh-CN/prompt-library/library "Authropic 提示词库")
     - AI 绘画：[Midjourney 提示词库](https://promptlibrary.org/ "Midjourney 提示词库")
 2. 基础提示技巧
